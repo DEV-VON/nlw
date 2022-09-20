@@ -6,7 +6,7 @@
 
 Projeto construido no evento Next Week da Rockseat.
 
-[Clique aqui para acessar] (https://DEV-VON.github.io/nlw)
+[Clique aqui para acessar](https://DEV-VON.github.io/nlw)
 
 ## Tecnologias
 
