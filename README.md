@@ -17,4 +17,5 @@ Projeto construido no evento Next Week da Rockseat.
 ## Contato
 
 jonathanvonrandowrattes@gmail.com
-[Linkedin] (https://www.linkedin.com/in/jonathan-von-randow-rattes-leit%C3%A3o-08b41313b/)
+
+[Linkedin](https://www.linkedin.com/in/jonathan-von-randow-rattes-leit%C3%A3o-08b41313b/)
