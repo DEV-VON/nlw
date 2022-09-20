@@ -4,7 +4,7 @@
 
 > Trilha Explorer
 
-Projeto construido no evento Next Week da Rockseat.
+Projeto construido no evento Next Week da Rocketseat.
 
 [Clique aqui para acessar](https://DEV-VON.github.io/nlw)
 
