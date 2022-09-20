@@ -16,7 +16,7 @@ Projeto construido no evento Next Week da Rocketseat.
 
 ## Contatos
 
-> [e-mail](jonathanvonrandowrattes@gmail.com)
+> [e-mail] jonathanvonrandowrattes@gmail.com
 
 > [Linkedin](https://www.linkedin.com/in/jonathan-von-randow-rattes-leit%C3%A3o-08b41313b/)
 
