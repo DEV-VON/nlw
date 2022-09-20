@@ -10,12 +10,14 @@ Projeto construido no evento Next Week da Rockseat.
 
 ## Tecnologias
 
-- HTML
-- CSS
+- HTML 5
+- CSS 3
 - Git e Github
 
-## Contato
+## Contatos
 
-jonathanvonrandowrattes@gmail.com
+> e-mail: jonathanvonrandowrattes@gmail.com
 
-[Linkedin](https://www.linkedin.com/in/jonathan-von-randow-rattes-leit%C3%A3o-08b41313b/)
+> [Linkedin](https://www.linkedin.com/in/jonathan-von-randow-rattes-leit%C3%A3o-08b41313b/)
+
+> [Instagram](https://www.instagram.com/jonathan_randow/)
